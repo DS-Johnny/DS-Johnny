@@ -11,8 +11,10 @@
 
 - Python
 - SQL
+- Flask
 - Power BI
 - Excel
+- GIT
 
 <h2>Where you can find me:</h2>
 
