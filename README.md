@@ -16,7 +16,7 @@
 <h2>Where you can find me:</h2>
 
 - LinkedIn: https://www.linkedin.com/in/ds-johnny
-- Instagram: https://www.instagram.com/johnny.datascientist/
+- Instagram: https://www.instagram.com/johnny.datascientist/](https://www.instagram.com/johnny_tj.ds/
 - Whatsapp: +55 11 9 8328 6477
 
 <!---
