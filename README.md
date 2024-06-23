@@ -3,10 +3,7 @@
   Here you will find projects related to Data Science and Python development.
 </p>
 
-- I’m currently graduating in Data Science and also studying at Comunidade DS
-- I'm a Junior Data Analyst Intern at Movida Aluguel de Carros
-- I’m looking to collaborate on projects related to Data Science and Data Analysis
-   
+
 <h2>Skills:</h2>
 
 - Python
