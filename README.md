@@ -7,6 +7,7 @@
 <h2>Skills:</h2>
 
 - Python
+- Machine Learning 
 - SQL
 - Flask
 - Power BI
