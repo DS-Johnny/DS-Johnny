@@ -1,26 +1,33 @@
-<h1>Welcome to my Github profile!</h1>
-<p>Hello world! My name is Johnny, a Data Scientist from Brazil!<br>
-  Here you will find projects related to Data Science and Python development.
-</p>
+<h1 align="center"> ❮ Welcome! ❯ </h1>
+
+##  `>_ Hello! I'm Johnny`
+
+<div>
+  <ul>
+    <li>Data Scientist | Data Analyst | Python Developer</li>
+    <li>AI Engineering Enthusiast</li>
+    <li>IT Instructor</li>
+    <li>English Teacher</li>    
+  </ul>
+</div>
+<hr>
+<div align="left">
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="keras logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="pandas logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="power bi logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo" />
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="40" alt="plotly logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
 
 
-<h2>Skills:</h2>
-
-- Python
-- Machine Learning 
-- SQL
-- Flask
-- Power BI
-- Excel
-- GIT
-
-<h2>Where you can find me:</h2>
-
-- LinkedIn: https://www.linkedin.com/in/ds-johnny
-- Instagram: https://www.instagram.com/johnny.datascientist/](https://www.instagram.com/johnny_tj.ds/
-- Whatsapp: +55 11 9 8328 6477
-
-<!---
-DS-Johnny/DS-Johnny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  </p>
+</div>
